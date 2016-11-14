@@ -48,6 +48,11 @@ gem 'grape-swagger', '~> 0.20.1'
 gem 'grape-swagger-ui', github: 'dangnm/grape-swagger-ui'
 gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass'
 
+gem 'rails_admin', '~> 1.0'
+
+# for calling api without 405
+gem 'rack-cors', :require => 'rack/cors'
+
 
 gem 'sidekiq', '~> 4.0.0'
 gem "sidekiq-cron", "~> 0.4.0"

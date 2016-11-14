@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  mount RailsAdmin::Engine => '/rails_admin', as: 'rails_admin'
   mount API::Root => '/'
 
   devise_for :users
