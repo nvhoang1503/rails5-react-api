@@ -1,25 +1,24 @@
-# README
+# README (rails5-react-api)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# What we have on the template:
 
-Things you may want to cover:
+* API structure with Swager
 
-* Ruby version
+* API Document with Swager UI ==> http://localhost:3000/apidoc
 
-* System dependencies
+* Rails Admin ==> http://localhost:3000/rails_admin
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Web Admin Example with React Flux Structure ==> http://localhost:3000/admin
 
 * ...
-# rails5-react-api
+
+# How to run the test suite
+
+* Bundle install
+
+* Database configruation & Seeding sample data
+
+* Start rails server
+
+* ...
+# Enjoy... 
