@@ -1,6 +1,6 @@
 # README (rails5-react-api)
 
-# What we have on the template:
+# What we have done on the template:
 
 * API structure with Swager
 
